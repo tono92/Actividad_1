@@ -44,6 +44,10 @@
 	background:gray;
 }
 
+.encabezado-destino{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
 
 .panel-destino{
 	width: 280px;
