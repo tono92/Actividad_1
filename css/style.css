@@ -120,6 +120,20 @@
 	margin-top: 5px;
 } 
 
+
+.section-2 {
+ 
+  background-color: #141b5c;
+ 
+  color: whitesmoke;
+ 
+  text-shadow: rgb(221, 146, 221) 3px;
+ 
+  padding-top: 15px;
+ 
+} 
+
+
 .panel-about{
     display: flex;
     align-items: center;
@@ -206,3 +220,4 @@
 .letras-opinion, .letras-opinion-derecho h5 {
     text-align: center;
 }
+
