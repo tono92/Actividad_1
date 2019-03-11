@@ -1,0 +1,151 @@
+
+
+h1{
+    text-align: center;
+    position: relative;
+    
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.cajaPrecio1{
+    width:500px;
+    height:500px;
+    background: yellow;
+
+
+    position:absolute;
+    top: 0;
+    right:6;
+    bottom:1;
+    left:0;
+    margin:auto;
+}
+.cajaPrecio2{
+    width: 500px;
+    height:500px;
+    background: yellow;
+
+
+    position:absolute;
+    top: 0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+}
+
+.cajaPrecio3{
+    width: 500px;
+    height:500px;
+    background: yellow;
+
+
+    position:absolute;
+    top: 0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+}
+
+.cajaPrecio4{
+    width: 500px;
+    height:500px;
+    background: yellow;
+
+
+    position:absolute;
+    top: 0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+}
+
+.cajaPrecio5{
+    width: 500px;
+    height:500px;
+    background: yellow;
+
+
+    position:absolute;
+    top: 0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+}
+.cajaPrecio6{
+    width: 500px;
+    height:500px;
+    background: yellow;
+
+
+    position:absolute;
+    top: 0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+}
+.container.row.imagen01{
+    height:10px;
+    width: 10px;
+    background:;
+    position: relative;
+
+    
+
+}
+
+.container.row.imagen02{
+    height:10px;
+    width: 10px;
+
+    
+
+}
+
+.container.row.imagen03{
+    height:10px;
+    width: 10px;
+
+    
+
+}
+
+.container2.row.imagen04.imagen04{
+    height:10px;
+    width: 10px;
+
+    
+
+}
+
+.container2.row.imagen05{
+    height:10px;
+    width: 10px;
+
+    
+
+}
+
+.container2.row.imagen06{
+    height:10px;
+    width: 10px;
+
+    
+
+}
+
+
+/*
+reglas selectores 
+declaraciones
+propiedades
+valores
+
+*/
